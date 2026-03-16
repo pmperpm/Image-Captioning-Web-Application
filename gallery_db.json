@@ -1,0 +1,29 @@
+{
+  "albums": {
+    "5606e0b5-7512-4961-bde7-f79984821223": {
+      "name": "ddddd",
+      "description": "",
+      "created_at": "2026-03-16T11:24:28.646068",
+      "images": [
+        {
+          "id": "936e0ab5-2e08-4a45-b75a-c196612ba743",
+          "filename": "936e0ab5-2e08-4a45-b75a-c196612ba743.png",
+          "original_name": "2569-03-16_11.10.40.png",
+          "url": "/uploads/5606e0b5-7512-4961-bde7-f79984821223/936e0ab5-2e08-4a45-b75a-c196612ba743.png",
+          "thumbnail": "/uploads/5606e0b5-7512-4961-bde7-f79984821223/936e0ab5-2e08-4a45-b75a-c196612ba743_thumb.png",
+          "caption": "a screenshot of a cow on a purple background",
+          "uploaded_at": "2026-03-16T11:24:38.988273"
+        },
+        {
+          "id": "3b1d90b4-153d-435d-a5dc-6852721e7d19",
+          "filename": "3b1d90b4-153d-435d-a5dc-6852721e7d19.png",
+          "original_name": "2569-01-29_20.05.08.png",
+          "url": "/uploads/5606e0b5-7512-4961-bde7-f79984821223/3b1d90b4-153d-435d-a5dc-6852721e7d19.png",
+          "thumbnail": "/uploads/5606e0b5-7512-4961-bde7-f79984821223/3b1d90b4-153d-435d-a5dc-6852721e7d19_thumb.png",
+          "caption": "a diagram showing the location of the house and the location of the house",
+          "uploaded_at": "2026-03-16T11:25:44.390506"
+        }
+      ]
+    }
+  }
+}
